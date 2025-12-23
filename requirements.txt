@@ -1,0 +1,76 @@
+# Flask Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.0.5
+Flask-RESTful==0.3.10
+Flask-JWT-Extended==4.5.2
+
+# OpenAI and AI Models
+openai==0.28.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+wikipedia==1.4.0
+
+# Video Generation and Processing
+moviepi==1.0.3
+pyttsx3==2.90
+Pillow==10.0.0
+numpy==1.24.3
+opencv-python==4.8.0.76
+ffmpeg-python==0.2.1
+Scipy==1.11.2
+
+# Database
+SQLAlchemy==2.0.21
+psycopg2-binary==2.9.7
+alembic==1.12.0
+PyMongo==4.5.0
+
+# Async Processing
+celery==5.3.1
+redis==5.0.0
+
+# Data Processing
+pandas==2.0.3
+PyYAML==6.0.1
+python-dotenv==1.0.0
+
+# Utilities
+python-magic==0.4.27
+uuid6==1.0.3
+click==8.1.7
+colorama==0.4.6
+tqdm==4.66.1
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+pytest-flask==1.2.0
+pytest-asyncio==0.21.1
+
+# Code Quality
+flake8==6.0.0
+black==23.9.1
+isort==5.12.0
+pylint==2.17.5
+mypy==1.5.1
+
+# Logging and Monitoring
+loguru==0.7.0
+sentry-sdk==1.32.0
+
+# API Documentation
+flasgger==0.9.7.1
+swagger-ui-py==2022.3.28
+
+# Deployment
+gunicorn==21.2.0
+whitenoise==6.5.0
+python-multipart==0.0.6
+
+# Development
+IPython==8.15.0
+jupyter==1.0.0
+jupyterlab==4.0.3
+ipython-sql==0.5.0
